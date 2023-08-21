@@ -1,1 +1,1 @@
-## Feel free to add me: Luck_Power#1337
+## Feel free to add me: luck_power
