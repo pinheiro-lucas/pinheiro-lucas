@@ -1,14 +1,24 @@
-
 <p align="center">
-    <a href="#"><img src="https://f005.backblazeb2.com/file/lucaspinheiro-dev/fundo-git.png"/></a>
+    <img src="https://f005.backblazeb2.com/file/lucaspinheiro-dev/fundo-git.png"/>
 </p>
 
 ## 
 <p align="center">
-    <a>
-        <img align="center" src="https://github.com/Pinheiro-Lucas/Pinheiro-Lucas/blob/output/github-contribution-grid-snake.svg" />
-    </a>
+    <picture>
+        <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/pinheiro-lucas/pinheiro-lucas/output/github-contribution-grid-snake-dark.svg"
+        />
+        <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/pinheiro-lucas/pinheiro-lucas/output/github-contribution-grid-snake.svg"
+        />
+        <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/pinheiro-lucas/pinheiro-lucas/output/github-contribution-grid-snake.svg"
+        />
+    </picture>
 </p>
 
 <br>
-Thx <a href="https://github.com/Platane/snk">Snake Game Script.
+Thx to <a href="https://github.com/Platane/snk">Snake Game</a>.
