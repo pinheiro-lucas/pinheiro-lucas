@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="#"><img src="https://imgur.com/yWdsSji.png"/></a>
+    <a href="#"><img src="https://f005.backblazeb2.com/file/lucaspinheiro-dev/fundo-git.png"/></a>
 </p>
 
 ## 
@@ -11,4 +11,4 @@
 </p>
 
 <br>
-Thx <a href="https://github.com/Platane/snk">Snake Game Script</a> and <a href="https://icons8.com/">Icons by Icons8</a>.
+Thx <a href="https://github.com/Platane/snk">Snake Game Script.
